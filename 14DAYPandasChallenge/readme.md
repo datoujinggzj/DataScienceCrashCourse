@@ -77,8 +77,8 @@ https://www.pypandas.cn/docs/getting_started/
 |   DAY4  |  数据框DataFrame列操作   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY4/Pandas_DAY4.ipynb)    |     
 |  DAY5  |  数据框DataFrame行操作  | [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY5/Pandas_DAY5.ipynb)    |     
 |  DAY6   |  行列组合操作   | [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY6/Pandas_DAY6.ipynb)     |     
-| DAY7   |  数据抽样（补充：常见option设置）   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY7/Pandas_DAY7.ipynb)    |     
-|  DAY8   |  value_counts全解   |   [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY8/Pandas_DAY8.ipynb)  |     
+| DAY7   |  数据抽样（补充：常见`option`设置）   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY7/Pandas_DAY7.ipynb)    |     
+|  DAY8   |  `value_counts`全解（`style.format` 使用）   |   [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY8/Pandas_DAY8.ipynb)  |     
 | DAY9   |  合并&拼接   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY9/Pandas_DAY9.ipynb)   |     
 |  DAY10  |  group by   | [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY10/Pandas_DAY10.ipynb)      |     
 |  DAY11  |  五大函数   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY11/Pandas_DAY11.ipynb)    |     
