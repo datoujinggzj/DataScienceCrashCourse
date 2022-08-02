@@ -7,7 +7,7 @@
 
 
 <div align=center>
-<img src=../img/image.pngwidth='400' />
+<img src=../img/image.png width='400' />
 </div>
 
 目前Python数据分析适用于众多行业，包括并不局限于网站运营、销售竞争、新媒体传播、互联网公司对数据的分析等。Python数据分析人员主要担任的岗位：企业运营人员、数据分析师、python工程师、数据挖掘工程师。
