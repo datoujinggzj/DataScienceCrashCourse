@@ -5,7 +5,10 @@
 很多小伙伴问我，是不是会sql、excel还有可视化工具（Tableau、powerBI）就可以成为一个数据分析师了，我觉得其实可以，但是得看你想成为一个什么样的数据分析师。
 想找个工作不是很难，想找个你满意的数据分析工作还是挺难的。
 
-![输入图片说明](../img/image.png)
+
+<div align=center>
+<img src=../img/image.pngwidth='400' />
+</div>
 
 目前Python数据分析适用于众多行业，包括并不局限于网站运营、销售竞争、新媒体传播、互联网公司对数据的分析等。Python数据分析人员主要担任的岗位：企业运营人员、数据分析师、python工程师、数据挖掘工程师。
 那么学习Python数据分析，你不得不学习的一个模块，就是Pandas！
@@ -58,6 +61,9 @@ https://www.pypandas.cn/docs/getting_started/
 那么，这里主要是为大家梳理在日常使用Pandas处理数据的时候，可能需要注意的一些关键点！
 同时也是面试（主要是take home project）、甚至以后工作会遇到的！
 
+---
+
+### 干货在此
 
 - [第一周文档](https://ex661wn4s4.feishu.cn/docx/doxcnYhnPWtZBw9ceJZGG0wsQTf)
 - [第一周文档](https://ex661wn4s4.feishu.cn/docx/doxcnuqfIOQwgKayh8O4XwckjAC)
@@ -68,7 +74,7 @@ https://www.pypandas.cn/docs/getting_started/
 |   DAY2  |  系列Series   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY2/Pandas_DAY2.ipynb)   |     
 |   DAY3  |  数据框DataFrame基础   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY3/Pandas_DAY3.ipynb)    |     
 |   DAY4  |  数据框DataFrame列操作   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY4/Pandas_DAY4.ipynb)    |     
-|  DAY5  |  5. DAY5（数据框DataFrame行操作）   | [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY5/Pandas_DAY5.ipynb)    |     
+|  DAY5  |  数据框DataFrame行操作  | [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY5/Pandas_DAY5.ipynb)    |     
 |  DAY6   |  行列组合操作   | [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY6/Pandas_DAY6.ipynb)     |     
 | DAY7   |  数据抽样（补充：常见option设置）   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY7/Pandas_DAY7.ipynb)    |     
 |  DAY8   |  value_counts全解   |   [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY8/Pandas_DAY8.ipynb)  |     
