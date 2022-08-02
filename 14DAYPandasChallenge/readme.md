@@ -23,7 +23,7 @@ Pandas 提供了极其简化的数据表示形式。这有助于更好地分析�
 这是 Pandas 的最大优势之一。在没有任何支持库的情况下，在 Python 中需要多行代码，但使用 Pandas 只需 1-2 行代码即可实现。因此，使用 Pandas 有助于缩短处理数据的过程。节省了时间，我们可以更多地关注数据分析算法。
 
 
-### 总结：
+### 小结
 
 Here are just a few of the things that pandas does well:
 - Easy handling of missing data (represented as NaN, NA, or NaT) in floating point as well as non-floating point data
@@ -39,6 +39,7 @@ Here are just a few of the things that pandas does well:
 - Time series-specific functionality: date range generation and frequency conversion, moving window statistics, date shifting and lagging
 
 ### Pandas相关资料
+
 1. 官网
 https://pandas.pydata.org/
 2. Cheatsheet
@@ -63,10 +64,10 @@ https://www.pypandas.cn/docs/getting_started/
 
 ---
 
-### 干货在此
+### 干货在此！！！
 
-- [第一周文档](https://ex661wn4s4.feishu.cn/docx/doxcnYhnPWtZBw9ceJZGG0wsQTf)
-- [第一周文档](https://ex661wn4s4.feishu.cn/docx/doxcnuqfIOQwgKayh8O4XwckjAC)
+- [第1周文档](https://ex661wn4s4.feishu.cn/docx/doxcnYhnPWtZBw9ceJZGG0wsQTf)
+- [第2周文档](https://ex661wn4s4.feishu.cn/docx/doxcnuqfIOQwgKayh8O4XwckjAC)
 
 |  日期   |   主要内容  |  链接   |     
 | --- | -------- | --- | 
