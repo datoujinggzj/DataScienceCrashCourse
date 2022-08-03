@@ -4,11 +4,17 @@
 
 《权力的游戏》大致是根据小说《冰与火之歌》的故事线情节，故事背景设置于虚构的维斯特洛七王国及厄斯索斯大陆。 该系列记录了该领域贵族争夺铁王座的激烈王朝斗争，而其他家庭则为争取独立而斗争。
 
-### 二、数据获取
+### 二、资源获取
+
+#### 数据
 
 - [battles](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DATA/battles.csv)
 - [character-deaths](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DATA/character-deaths.csv)
 - [character-predictions](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DATA/character-predictions.csv)
+
+#### 作业
+
+- [作业链接](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/Project_1_game_of_thrones/Project_1_game_of_thrones.ipynb)
 
 ### 三、数据集介绍
 该数据集包含了三个CSV文件，分别是：battles.csv，character-deaths.csv和character-predictions.csv。现分别介绍如下：
