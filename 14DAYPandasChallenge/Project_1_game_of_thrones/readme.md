@@ -1,12 +1,16 @@
 # 项目练习（1）
 
-#### 一、简介
+### 一、简介
 
 《权力的游戏》大致是根据小说《冰与火之歌》的故事线情节，故事背景设置于虚构的维斯特洛七王国及厄斯索斯大陆。 该系列记录了该领域贵族争夺铁王座的激烈王朝斗争，而其他家庭则为争取独立而斗争。
 
+### 二、数据获取
 
+- [battles](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DATA/battles.csv)
+- [character-deaths](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DATA/character-deaths.csv)
+- [character-predictions](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DATA/character-predictions.csv)
 
-#### 二、数据集介绍
+### 三、数据集介绍
 该数据集包含了三个CSV文件，分别是：battles.csv，character-deaths.csv和character-predictions.csv。现分别介绍如下：
 
 battles.csv：《权利的游戏》中所有的战争。
@@ -14,6 +18,7 @@ character-deaths.csv：人物死亡数据集。
 character-predictions.csv：人物命运预测数据集。
 在每一个CSV数据里面都包含了大量的变量，读懂这些变量名所代表的含义非常有必要。例如：battles.csv中的year变量代表战争发生的时间，battle_type代表战役类型，有伏击战，围攻战，突袭战等。
 
+### 四、英文介绍
 
 #### Context
 
