@@ -69,8 +69,8 @@ https://www.pypandas.cn/docs/getting_started/
 - [第1周文档](https://ex661wn4s4.feishu.cn/docx/doxcnYhnPWtZBw9ceJZGG0wsQTf)
 - [第2周文档](https://ex661wn4s4.feishu.cn/docx/doxcnuqfIOQwgKayh8O4XwckjAC)
 
-|  日期   |   主要内容  |  链接   |     
-| --- | -------- | --- | 
+|  日期   |   主要内容  |  链接   |
+| :---: | :--------: | :---: | 
 |  DAY1  |   读取文件  |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY1/Pandas_DAY1.ipynb)   |     |
 |   DAY2  |  系列Series   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY2/Pandas_DAY2.ipynb)   |     
 |   DAY3  |  数据框DataFrame基础   |  [代码](https://gitee.com/gzjzg/data-preparation-crash-course/blob/master/14DAYPandasChallenge/DAY3/Pandas_DAY3.ipynb)    |     
