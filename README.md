@@ -1,6 +1,4 @@
-# DataPreparationCrashCourse
-
-#### Pandas训练营
+## Pandas训练营
 
 |  序号   |  详情链接   |
 | :---: | :---: |
